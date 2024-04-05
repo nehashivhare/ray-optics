@@ -1,5 +1,11 @@
 ![Example figure](https://raw.githubusercontent.com/ricktu288/ray-optics/master/img/1.svg)
 
+# Local Setup
+1. wget all resources from the web app
+2. renamed files and ordered in structure similar to the web app 
+3. replace web url with localhost
+
+
 # Ray Optics Simulation
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6386611.svg)](https://doi.org/10.5281/zenodo.6386611)
 
